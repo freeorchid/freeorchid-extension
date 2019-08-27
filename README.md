@@ -1,6 +1,6 @@
 <div align="center">
 
-# Web Extension Starter
+# FreeOrchid (previously: Web Extension Starter)
 
 </div>
 
