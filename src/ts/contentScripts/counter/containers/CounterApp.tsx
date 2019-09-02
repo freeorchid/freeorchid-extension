@@ -4,7 +4,7 @@ import { Dispatch } from 'redux';
 import styled, { ThemeProvider } from 'styled-components';
 import { IAppState } from '../../../background/store';
 import { themes, ThemeTypes } from '../../../components/styles/themes';
-import Counter from '../../../containers/Counter';
+import Counter from '../../../containers/App';
 
 interface ICounterApp {
 	theme: ThemeTypes;
